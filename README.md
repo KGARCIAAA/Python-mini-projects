@@ -1,2 +1,2 @@
 # Python-mini-projects
-Mini in-class projects
+Weekly exercises that strengthened my skills in python. 
